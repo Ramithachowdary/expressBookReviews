@@ -1,0 +1,31 @@
+curl -s https://api.github.com/repos/Ramithachowdary/expressBookReviews
+
+{
+  "id": 1042735165,
+  "node_id": "R_kgDOPhg4PQ",
+  "name": "expressBookReviews",
+  "full_name": "Ramithachowdary/expressBookReviews",
+  "private": false,
+  "owner": {
+    "login": "Ramithachowdary",
+    "id": 172905096,
+    "avatar_url": "https://avatars.githubusercontent.com/u/172905096?v=4",
+    "html_url": "https://github.com/Ramithachowdary"
+  },
+  "html_url": "https://github.com/Ramithachowdary/expressBookReviews",
+  "description": "nodejsFinalModule",
+  "fork": true,
+  "url": "https://api.github.com/repos/Ramithachowdary/expressBookReviews",
+  "parent": {
+    "id": 533722271,
+    "name": "expressBookReviews",
+    "full_name": "ibm-developer-skills-network/expressBookReviews",
+    "html_url": "https://github.com/ibm-developer-skills-network/expressBookReviews"
+  },
+  "source": {
+    "id": 533722271,
+    "name": "expressBookReviews",
+    "full_name": "ibm-developer-skills-network/expressBookReviews",
+    "html_url": "https://github.com/ibm-developer-skills-network/expressBookReviews"
+  }
+}
